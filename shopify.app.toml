@@ -1,0 +1,47 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "02a7165f0d233ae5737da777bac1c632"
+name = "custom-app"
+handle = "custom-app-608"
+application_url = "https://regardless-education-quest-capitol.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "stagging-theme-app.myshopify.com"
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "read_checkout_branding_settings,read_products,write_checkout_branding_settings,write_products"
+
+[auth]
+redirect_urls = [
+  "https://again-combined-now-produced.trycloudflare.com/auth/callback",
+  "https://again-combined-now-produced.trycloudflare.com/auth/shopify/callback",
+  "https://again-combined-now-produced.trycloudflare.com/api/auth/callback",
+  "https://regardless-education-quest-capitol.trycloudflare.com/auth/callback",
+  "https://regardless-education-quest-capitol.trycloudflare.com/auth/shopify/callback",
+  "https://regardless-education-quest-capitol.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-10"
+
+  [[webhooks.subscriptions]]
+  compliance_topics = [ "customers/data_request" ]
+  uri = "/webhooks/customers/data_request"
+
+  [[webhooks.subscriptions]]
+  compliance_topics = [ "customers/redact" ]
+  uri = "/webhooks/customers/redact"
+
+  [[webhooks.subscriptions]]
+  compliance_topics = [ "shop/redact" ]
+  uri = "/webhooks/shop/redact"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "/webhooks/app/uninstalled"
+
+[pos]
+embedded = false
