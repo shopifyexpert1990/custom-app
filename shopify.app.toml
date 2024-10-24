@@ -3,7 +3,7 @@
 client_id = "02a7165f0d233ae5737da777bac1c632"
 name = "custom-app"
 handle = "custom-app-608"
-application_url = "https://regardless-education-quest-capitol.trycloudflare.com"
+application_url = "https://eve-cayman-serious-pockets.trycloudflare.com"
 embedded = true
 
 [build]
@@ -22,7 +22,55 @@ redirect_urls = [
   "https://again-combined-now-produced.trycloudflare.com/api/auth/callback",
   "https://regardless-education-quest-capitol.trycloudflare.com/auth/callback",
   "https://regardless-education-quest-capitol.trycloudflare.com/auth/shopify/callback",
-  "https://regardless-education-quest-capitol.trycloudflare.com/api/auth/callback"
+  "https://regardless-education-quest-capitol.trycloudflare.com/api/auth/callback",
+  "https://fitting-occurred-blogging-edt.trycloudflare.com/auth/callback",
+  "https://fitting-occurred-blogging-edt.trycloudflare.com/auth/shopify/callback",
+  "https://fitting-occurred-blogging-edt.trycloudflare.com/api/auth/callback",
+  "https://antivirus-la-uk-singer.trycloudflare.com/auth/callback",
+  "https://antivirus-la-uk-singer.trycloudflare.com/auth/shopify/callback",
+  "https://antivirus-la-uk-singer.trycloudflare.com/api/auth/callback",
+  "https://packets-award-remedies-laser.trycloudflare.com/auth/callback",
+  "https://packets-award-remedies-laser.trycloudflare.com/auth/shopify/callback",
+  "https://packets-award-remedies-laser.trycloudflare.com/api/auth/callback",
+  "https://scoop-recipient-supplies-acting.trycloudflare.com/auth/callback",
+  "https://scoop-recipient-supplies-acting.trycloudflare.com/auth/shopify/callback",
+  "https://scoop-recipient-supplies-acting.trycloudflare.com/api/auth/callback",
+  "https://kenneth-signing-smile-ana.trycloudflare.com/auth/callback",
+  "https://kenneth-signing-smile-ana.trycloudflare.com/auth/shopify/callback",
+  "https://kenneth-signing-smile-ana.trycloudflare.com/api/auth/callback",
+  "https://elvis-institution-male-expired.trycloudflare.com/auth/callback",
+  "https://elvis-institution-male-expired.trycloudflare.com/auth/shopify/callback",
+  "https://elvis-institution-male-expired.trycloudflare.com/api/auth/callback",
+  "https://considered-signature-streets-photos.trycloudflare.com/auth/callback",
+  "https://considered-signature-streets-photos.trycloudflare.com/auth/shopify/callback",
+  "https://considered-signature-streets-photos.trycloudflare.com/api/auth/callback",
+  "https://announced-startup-send-oops.trycloudflare.com/auth/callback",
+  "https://announced-startup-send-oops.trycloudflare.com/auth/shopify/callback",
+  "https://announced-startup-send-oops.trycloudflare.com/api/auth/callback",
+  "https://connected-profits-pumps-consequence.trycloudflare.com/auth/callback",
+  "https://connected-profits-pumps-consequence.trycloudflare.com/auth/shopify/callback",
+  "https://connected-profits-pumps-consequence.trycloudflare.com/api/auth/callback",
+  "https://lyric-rates-plc-subsidiaries.trycloudflare.com/auth/callback",
+  "https://lyric-rates-plc-subsidiaries.trycloudflare.com/auth/shopify/callback",
+  "https://lyric-rates-plc-subsidiaries.trycloudflare.com/api/auth/callback",
+  "https://version-inappropriate-lottery-alternate.trycloudflare.com/auth/callback",
+  "https://version-inappropriate-lottery-alternate.trycloudflare.com/auth/shopify/callback",
+  "https://version-inappropriate-lottery-alternate.trycloudflare.com/api/auth/callback",
+  "https://sweden-assistant-relying-repository.trycloudflare.com/auth/callback",
+  "https://sweden-assistant-relying-repository.trycloudflare.com/auth/shopify/callback",
+  "https://sweden-assistant-relying-repository.trycloudflare.com/api/auth/callback",
+  "https://convertible-calculated-etc-earth.trycloudflare.com/auth/callback",
+  "https://convertible-calculated-etc-earth.trycloudflare.com/auth/shopify/callback",
+  "https://convertible-calculated-etc-earth.trycloudflare.com/api/auth/callback",
+  "https://argue-sand-competitors-modes.trycloudflare.com/auth/callback",
+  "https://argue-sand-competitors-modes.trycloudflare.com/auth/shopify/callback",
+  "https://argue-sand-competitors-modes.trycloudflare.com/api/auth/callback",
+  "https://sky-mj-myself-ideas.trycloudflare.com/auth/callback",
+  "https://sky-mj-myself-ideas.trycloudflare.com/auth/shopify/callback",
+  "https://sky-mj-myself-ideas.trycloudflare.com/api/auth/callback",
+  "https://eve-cayman-serious-pockets.trycloudflare.com/auth/callback",
+  "https://eve-cayman-serious-pockets.trycloudflare.com/auth/shopify/callback",
+  "https://eve-cayman-serious-pockets.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
